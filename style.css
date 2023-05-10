@@ -4,6 +4,7 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 150%;
+    overflow-y: hidden;
 }
 
 .logo{
@@ -14,11 +15,12 @@
 
 main{
     display: flex;
-    margin-bottom: 50px;
-    margin-left: 80px;
+    margin-bottom: 10px;
+    margin-left: 180px;
 }
 
-.text-area{
+.text-tarea{
+    height: 200px;
     border: none;
     color: #0A3871;
     margin-top: 90px;
@@ -85,7 +87,7 @@ main{
     margin-left: 108px;
     margin-top: 402px;
     position: absolute;
-    width: 336;
+    width: 336px;
 }
 
 .informacion{
